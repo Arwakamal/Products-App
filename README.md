@@ -31,11 +31,7 @@ The project follows a clean architecture approach with the following layers:
 
 
 ## Screenshots
-Here are some screenshots of the implemented design:
-
-<div style="display: flex; justify-content: center;">
-    <img src="[https://example.com/image1.jpg](https://github.com/user-attachments/assets/6eca1b9b-c00b-4295-87a5-7b5b759c628)" alt="Image 1" style="margin-right: 10px;">
-    <img src="[https://example.com/image2.jpg](https://github.com/user-attachments/assets/d95e6501-b277-462f-8284-035892b026f)" alt="Image 2" style="margin-right: 10px;">
-    <img src="[https://example.com/image3.jpg](https://github.com/user-attachments/assets/09fbf772-c2b3-4997-9608-9d30807f5300)" alt="Image 3">
-</div>
+![image_1](https://github.com/user-attachments/assets/b16a9425-5d6f-4df3-83ec-c74d22a8d7b9)
+![image_2](https://github.com/user-attachments/assets/041e484c-0300-47d6-b8cd-c73c31687383)
+![image_3](https://github.com/user-attachments/assets/d233fd09-b9f1-49bb-9aec-e52436d571fc)
 
