@@ -6,9 +6,6 @@ The Product List App is an Android application that fetches and displays a list 
 ## Features
 - Displays a list of products in a RecyclerView
 - Each product item shows the product image, title, price, and rating
-- Clicking on a product item navigates to a details screen
-- Details screen shows additional product information, such as description, category, brand, availability status, and reviews
-- Implements search functionality to filter the product list
 - Supports both portrait and landscape orientations
 
 ## Tech Stack
@@ -27,27 +24,18 @@ The project follows a clean architecture approach with the following layers:
 2. **Domain Layer**: Defines the business logic and use cases, and contains the models.
 3. **Data Layer**: Responsible for data retrieval and manipulation, including the Repository and remote/local data sources.
 
-## Installation
-1. Clone the repository: `git clone https://github.com/your-username/product-list-app.git`
-2. Open the project in Android Studio.
-3. Build and run the app on an emulator or a physical device.
+
 
 ## Usage
-1. The app will display a list of products fetched from the DummyJSON API.
-2. You can tap on a product item to see its details.
-3. The search functionality allows you to filter the product list by entering a search query.
+ The app will display a list of products fetched from the DummyJSON API.
+
 
 ## Screenshots
 Here are some screenshots of the implemented design:
 
-![image_1](https://github.com/user-attachments/assets/6eca1b9b-c00b-4295-87a5-7b5b759c6281)
-
-![image_2](https://github.com/user-attachments/assets/d95e6501-b277-462f-8284-035892b026fd)
-
-![image_3](https://github.com/user-attachments/assets/09fbf772-c2b3-4997-9608-9d30807f5300)
-
-
-## Contributions
-Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.
-
+<div style="display: flex; justify-content: center;">
+    <img src="[https://example.com/image1.jpg](https://github.com/user-attachments/assets/6eca1b9b-c00b-4295-87a5-7b5b759c628)" alt="Image 1" style="margin-right: 10px;">
+    <img src="[https://example.com/image2.jpg](https://github.com/user-attachments/assets/d95e6501-b277-462f-8284-035892b026f)" alt="Image 2" style="margin-right: 10px;">
+    <img src="[https://example.com/image3.jpg](https://github.com/user-attachments/assets/09fbf772-c2b3-4997-9608-9d30807f5300)" alt="Image 3">
+</div>
 
